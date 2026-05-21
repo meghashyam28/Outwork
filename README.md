@@ -159,7 +159,4 @@ For questions or support, contact the Outwork team.
 ---
 
 **Built with ❤️ for Outwork - Where AI Meets Execution**
-"# Outwork" 
-"# Outwork" 
-"# Outwork" 
-"# Outwork" 
+
